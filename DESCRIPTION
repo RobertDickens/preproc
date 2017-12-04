@@ -1,0 +1,12 @@
+Package: preproc
+Type: Package
+Title: Preprocessing and Data Exploration
+Version: 0.1.0
+Author: Robert Dickens
+Maintainer: Robert Dickens <robertdickens90@gmail.com>
+Description: A collection of general functions for preprocessing data and 
+    preliminary data exploration. Added to whenever I feel like it.
+License: NA
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
