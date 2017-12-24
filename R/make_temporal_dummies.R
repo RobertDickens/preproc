@@ -10,7 +10,7 @@
 
 library(lubridate)
 library(dummies)
-v <- c(3,3,3)
+#blahblah
 MakeTemporalDummies <- function(data, time.column, date.format,
                                 dummy.for = c("m", "d"), drop=TRUE) {
 
